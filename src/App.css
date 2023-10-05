@@ -1,0 +1,50 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.cs-message-input__content-editor-wrapper,
+.cs-message-input__content-editor  {
+  background-color: #e2e8f0 !important;
+ 
+}
+
+.cs-chat-container .cs-message-input
+{
+  border: 0 !important;
+  padding:15px 0 !important
+}
+
+.cs-button{
+  color: #475569 !important ;
+}
+
+.cs-message--outgoing .cs-message__content
+{
+  background-color: #2563eb !important;
+  color: white !important;
+  border-radius: 10px !important;
+}
+
+.cs-message__content
+{
+  color: #64748b !important;
+  background-color: white !important;
+}
+
+.cs-message-list{
+  background-color:#dbeafe !important;
+  padding: 15px !important  ;
+}
+
+.cs-main-container
+{
+  border: 0 !important;
+}
+
+.cs-message-list .cs-typing-indicator
+{
+  background-color:#dbeafe !important;
+}
